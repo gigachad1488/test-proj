@@ -1,0 +1,11 @@
+Model Information:
+* title:	Piggy Bank
+* source:	https://sketchfab.com/3d-models/piggy-bank-cfe7da1b074249eb92289dbc43749598
+* author:	bmdezign (https://sketchfab.com/bmdezign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Piggy Bank" (https://sketchfab.com/3d-models/piggy-bank-cfe7da1b074249eb92289dbc43749598) by bmdezign (https://sketchfab.com/bmdezign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
